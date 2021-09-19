@@ -1,2 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JRT Scripts"/>
+<index version="1" name="JRT Scripts" commit="8290feac653f2c2724c003f6304bbdf313fd2289">
+  <category name="MIDI Editor">
+    <reapack name="JRT_Navigate-Next Note OR Measure.lua" type="script" desc="JRT_Navigate-Next Note OR Measure">
+      <version name="1.0" author="JRTaylorMusic" time="2021-09-19T00:42:21Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="midi_editor">https://github.com/JRTaylorMusic/REAPER/raw/9e6ca88d2fcdbc30ee5a61cc2187bda689b1b95a/MIDI%20Editor/JRT_Navigate-Next%20Note%20OR%20Measure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JRT_Navigate-Previous Note OR Measure.lua" type="script" desc="JRT_Navigate-Previous Note OR Measure">
+      <version name="1.0" author="JRTaylorMusic" time="2021-09-19T00:42:23Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="midi_editor">https://github.com/JRTaylorMusic/REAPER/raw/a37aa05f3e4abb653a59f464fa2115a463718a50/MIDI%20Editor/JRT_Navigate-Previous%20Note%20OR%20Measure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JRT_Navigate-Scroll View OR Move Notes Down.lua" type="script" desc="JRT_Navigate-Scroll View OR Move Notes Down">
+      <version name="1.0" author="JRTaylorMusic" time="2021-09-19T00:42:26Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="midi_editor">https://github.com/JRTaylorMusic/REAPER/raw/baa642ea5367aa0eead105e4ab837be8db61715b/MIDI%20Editor/JRT_Navigate-Scroll%20View%20OR%20Move%20Notes%20Down.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JRT_Navigate-Scroll View OR Move Notes Up.lua" type="script" desc="JRT_Navigate-Scroll View OR Move Notes Up">
+      <version name="1.0" author="JRTaylorMusic" time="2021-09-19T00:42:28Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="midi_editor">https://github.com/JRTaylorMusic/REAPER/raw/54425e2d3ea104348ccaf40813fa29002f629bca/MIDI%20Editor/JRT_Navigate-Scroll%20View%20OR%20Move%20Notes%20Up.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JRT_Navigate-Zoom In Vertically OR Move Notes Up Ignoring Key.lua" type="script" desc="JRT_Navigate-Zoom In Vertically OR Move Notes Up Ignoring Key">
+      <version name="1.0" author="JRTaylorMusic" time="2021-09-19T00:42:30Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="midi_editor">https://github.com/JRTaylorMusic/REAPER/raw/7019d18f0a5c124ad3180fd9ed43276e459289df/MIDI%20Editor/JRT_Navigate-Zoom%20In%20Vertically%20OR%20Move%20Notes%20Up%20Ignoring%20Key.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JRT_Navigate-Zoom Out Vertically OR Move Notes Down Ignoring Key.lua" type="script" desc="Navigate-Zoom Out Vertically OR Move Notes Down Ignoring Key">
+      <version name="1.0" author="JRTaylorMusic" time="2021-09-19T00:42:33Z">
+        <source main="midi_editor" file="JRT_Navigate-Zoom Out Vertically OR Move Notes Down Ignoring Key">https://github.com/JRTaylorMusic/REAPER/raw/8290feac653f2c2724c003f6304bbdf313fd2289/MIDI%20Editor/JRT_Navigate-Zoom%20Out%20Vertically%20OR%20Move%20Notes%20Down%20Ignoring%20Key.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
