@@ -1,16 +1,7 @@
---[[
- * ReaScript Name: JRT_Split all items at time selection or edit cursor
- * Author: JR Taylor
- * Licence: GPL v3
- * REAPER: 5.0
- * Version: 1.0
---]]
- 
---[[
- * Changelog:
- * v1.0 (2021-04-01)
-  + Initial Release
---]]
+-- @description JRT_Split all items at time selection or edit cursor
+-- @author JRTaylorMusic
+-- @version 1.0
+-- @provides [main]
 
 -- SAVE INITIAL SELECTED ITEMS
 init_sel_items = {}
