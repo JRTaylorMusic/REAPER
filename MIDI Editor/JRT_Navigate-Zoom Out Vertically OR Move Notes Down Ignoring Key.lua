@@ -1,7 +1,7 @@
-@description Navigate-Zoom Out Vertically OR Move Notes Down Ignoring Key
-@author JRTaylorMusic
-@version 1.0
-@provides . > JRT_Navigate-Zoom Out Vertically OR Move Notes Down Ignoring Key
+-- @description Navigate-Zoom Out Vertically OR Move Notes Down Ignoring Key
+-- @author JRTaylorMusic
+-- @version 1.0
+-- @provides [main]
 
 -- Main function
 function main()
