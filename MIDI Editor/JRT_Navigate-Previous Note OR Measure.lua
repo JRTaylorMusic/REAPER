@@ -1,15 +1,7 @@
---[[
- * ReaScript Name: JRT_Navigate-Previous Note OR Measure
- * Author: JRTaylorMusic
- * Licence: GPL v3
- * Version: 1.0
---]]
- 
---[[
- * Changelog:
- * v1.0 (2016-01-29)
-  + Initial Release
---]]
+-- @description JRT_Navigate-Previous Note OR Measure
+-- @author JRTaylorMusic
+-- @version 1.0
+-- @provides [midi_editor]
 
 -- Main function
 function main()
