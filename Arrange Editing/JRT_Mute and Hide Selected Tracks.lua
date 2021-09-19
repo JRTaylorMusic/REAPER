@@ -1,17 +1,7 @@
---[[
- * ReaScript Name: JRT_Mute and Hide Selected Tracks
- * Screenshot:n/a
- * Author: JR Taylor
- * Author URI: http://www.jrtaylormusic.com
- * Licence: GPL v3
- * REAPER: 6.25
- * Version: 1.0
---]]
---[[
- * Changelog:
- * v1.0 (2021-03-25)
-  + Initial Release
---]]
+-- @description JRT_Mute and Hide Selected Tracks
+-- @author JRTaylorMusic
+-- @version 1.0
+-- @provides [main]
 
 function Main()
   count_sel_tracks = reaper.CountSelectedTracks(0)
