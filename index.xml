@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JRT Scripts" commit="8290feac653f2c2724c003f6304bbdf313fd2289">
+<index version="1" name="JRT Scripts" commit="425c2dd6e92cc65bbbb222cc98f9d6d73b6abcb6">
+  <category name="Arrange Editing">
+    <reapack name="JRT_Move selection start to beginning.lua" type="script" desc="JRT_Move selection start to beginning">
+      <version name="1.0" author="JR Taylor" time="2021-09-19T02:03:24Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/JRTaylorMusic/REAPER/raw/8bb30eb6ab1c16fa1ad156cc3ba6256f3f65ac9a/Arrange%20Editing/JRT_Move%20selection%20start%20to%20beginning.lua</source>
+      </version>
+    </reapack>
+    <reapack name="JRT_Split all items at time selection or edit cursor.lua" type="script" desc="JRT_Split all items at time selection or edit cursor">
+      <version name="1.0" author="JR Taylor" time="2021-09-19T02:03:29Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/JRTaylorMusic/REAPER/raw/f9b392ed754c4590038899c7e0a73d08b2f418f4/Arrange%20Editing/JRT_Split%20all%20items%20at%20time%20selection%20or%20edit%20cursor.lua</source>
+      </version>
+    </reapack>
+  </category>
   <category name="MIDI Editor">
     <reapack name="JRT_Navigate-Next Note OR Measure.lua" type="script" desc="JRT_Navigate-Next Note OR Measure">
       <version name="1.0" author="JRTaylorMusic" time="2021-09-19T00:42:21Z">
@@ -25,7 +39,7 @@
         <source main="midi_editor">https://github.com/JRTaylorMusic/REAPER/raw/54425e2d3ea104348ccaf40813fa29002f629bca/MIDI%20Editor/JRT_Navigate-Scroll%20View%20OR%20Move%20Notes%20Up.lua</source>
       </version>
     </reapack>
-    <reapack name="JRT_Navigate-Zoom In Vertically OR Move Notes Up Ignoring Key.lua" type="script" desc="JRT_Navigate-Zoom In Vertically OR Move Notes Up Ignoring Key">
+    <reapack name="JRT_Navigate-Zoom In Vertically OR Move Notes Up Ignoring Key.lua" type="script" desc="Navigate-Zoom Out Vertically OR Move Notes Down Ignoring Key">
       <version name="1.0" author="JRTaylorMusic" time="2021-09-19T00:42:30Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
         <source main="midi_editor">https://github.com/JRTaylorMusic/REAPER/raw/7019d18f0a5c124ad3180fd9ed43276e459289df/MIDI%20Editor/JRT_Navigate-Zoom%20In%20Vertically%20OR%20Move%20Notes%20Up%20Ignoring%20Key.lua</source>
