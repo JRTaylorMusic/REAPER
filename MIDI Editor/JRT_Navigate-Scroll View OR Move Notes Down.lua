@@ -1,15 +1,7 @@
---[[
- * ReaScript Name: JRT_Navigate-Scroll View OR Move Notes Down
- * Author: JRTaylorMusic
- * Licence: GPL v3
- * Version: 1.0
---]]
- 
---[[
- * Changelog:
- * v1.0 (2016-01-29)
-  + Initial Release
---]]
+-- @description JRT_Navigate-Scroll View OR Move Notes Down
+-- @author JRTaylorMusic
+-- @version 1.0
+-- @provides [midi_editor]
 
 -- Main function
 function main()
