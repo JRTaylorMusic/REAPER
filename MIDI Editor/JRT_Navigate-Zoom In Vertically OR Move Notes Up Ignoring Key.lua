@@ -1,15 +1,7 @@
---[[
- * ReaScript Name: JRT_Navigate-Zoom In Vertically OR Move Notes Up Ignoring Key
- * Author: JRTaylorMusic
- * Licence: GPL v3
- * Version: 1.0
---]]
- 
---[[
- * Changelog:
- * v1.0 (2016-01-29)
-  + Initial Release
---]]
+-- @description Navigate-Zoom Out Vertically OR Move Notes Down Ignoring Key
+-- @author JRTaylorMusic
+-- @version 1.0
+-- @provides [midi_editor]
 
 -- Main function
 function main()
