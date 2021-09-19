@@ -1,16 +1,7 @@
---[[
- * ReaScript Name: JRT_Move selection start to beginning
- * Author: JR Taylor
- * Licence: GPL v3
- * REAPER: 6.26
- * Version: 1.0
---]]
- 
---[[
- * Changelog:
- * v1.0 (2021-04-01)
-  + Initial Release
---]]
+-- @description JRT_Move selection start to beginning
+-- @author JRTaylorMusic
+-- @version 1.0
+-- @provides [main]
 
 reaper.Undo_BeginBlock()
 reaper.PreventUIRefresh(1)
