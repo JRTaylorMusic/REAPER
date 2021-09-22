@@ -1,3 +1,8 @@
+-- @description Display name/short description
+-- @version 1.0.1
+-- @author JRTaylorMusic
+
+
 reaper.Undo_BeginBlock()
 reaper.PreventUIRefresh(1)
 local pos = reaper.GetCursorPosition()
