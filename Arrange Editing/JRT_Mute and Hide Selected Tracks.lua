@@ -1,8 +1,7 @@
 -- @description JRT_Mute and Hide Selected Tracks
--- @author JRTaylorMusic
 -- @version 1.0
--- @provides [main]
-
+-- @author JRTaylorMusic
+ 
 function Main()
   count_sel_tracks = reaper.CountSelectedTracks(0)
   for i = 0, count_sel_tracks - 1 do
@@ -15,7 +14,8 @@ function Main()
   end
   reaper.UpdateArrange()
 end
--- See if there is items selected
+
+-- See if there are items selected
 count_sel_tracks = reaper.CountSelectedTracks(0)
 
 if count_sel_tracks > 0 then
