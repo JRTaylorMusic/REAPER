@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JRT Scripts" commit="425c2dd6e92cc65bbbb222cc98f9d6d73b6abcb6">
+<index version="1" name="JRT Scripts" commit="f93b7c6b97e5272fab78e1376559704c101e6b4f">
   <category name="Arrange Editing">
-    <reapack name="JRT_Move selection start to beginning.lua" type="script" desc="JRT_Move selection start to beginning">
-      <version name="1.0" author="JR Taylor" time="2021-09-19T02:03:24Z">
-        <changelog><![CDATA[+ Initial Release]]></changelog>
-        <source main="main">https://github.com/JRTaylorMusic/REAPER/raw/8bb30eb6ab1c16fa1ad156cc3ba6256f3f65ac9a/Arrange%20Editing/JRT_Move%20selection%20start%20to%20beginning.lua</source>
-      </version>
-    </reapack>
     <reapack name="JRT_Split all items at time selection or edit cursor.lua" type="script" desc="JRT_Split all items at time selection or edit cursor">
       <version name="1.0" author="JR Taylor" time="2021-09-19T02:03:29Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
