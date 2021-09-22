@@ -1,7 +1,6 @@
 -- @description JRT_Split all items at time selection or edit cursor
--- @author JRTaylorMusic
 -- @version 1.0
--- @provides [main]
+-- @author JRTaylorMusic
 
 -- SAVE INITIAL SELECTED ITEMS
     init_sel_items = {}
